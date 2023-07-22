@@ -10,3 +10,4 @@ The Index will be updated along the way
 
 - Chapter 5: Constraint-Based PCGML Approaches
     - [Platformer level constraints](constraint-based-generation/platformer-generation)
+    - [WaveFunctionCollapse](constraint-based-generation/wfc)
