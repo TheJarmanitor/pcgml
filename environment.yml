@@ -1,0 +1,15 @@
+name: torch
+channels:
+  - defaults
+dependencies:
+  - pytorch-cuda=11.8
+  - pytorch
+  - torchvision
+  - torchaudio
+  - jupyterlab
+  - seaborn
+  - scikit-learn-intelex
+  - opencv
+  - pandas
+  - polars
+prefix: /home/thejarmanitor/miniconda3/envs/torch
